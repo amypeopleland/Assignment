@@ -1,0 +1,20 @@
+.body{
+  width: 1600px;
+  height: 800px;
+  background-color:#7dba5b;
+}
+.loginBox{
+  position:absolute;
+  top:50%;
+  left:50%;
+  width:280px;
+  transform: translate(-50%,-50%);
+  background-color: white;
+}
+.btn{
+  width:100%;
+}
+.register{
+  text-align: center;
+  font-size: 10px;
+}
